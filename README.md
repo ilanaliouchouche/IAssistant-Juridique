@@ -1,6 +1,6 @@
-# Assistant Juridique
+# IAssistant Juridique
 
-Bienvenue sur le projet **Assistant Juridique** ! 
+Bienvenue sur le projet **IAssistant Juridique** ! 
 
 ![Image](ai-assistant.png)
 
@@ -8,7 +8,7 @@ Ce projet est un chatbot conçu pour répondre aux questions juridiques en se ba
 
 ## Description
 
-L'**Assistant Juridique** est un outil innovant développé par Ilan ALIOUCHOUCHE et Ilyes DJERFAF pour aider les utilisateurs à obtenir des réponses rapides et précises à leurs questions juridiques.
+L'**IAssistant Juridique** est un outil innovant développé par Ilan ALIOUCHOUCHE et Ilyes DJERFAF pour aider les utilisateurs à obtenir des réponses rapides et précises à leurs questions juridiques.
 
 ## Fonctionnalités
 
